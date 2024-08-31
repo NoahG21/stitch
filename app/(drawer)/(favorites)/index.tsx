@@ -5,7 +5,7 @@ const Page = () => {
   return (
     <View>
     <Text>Favorites</Text>
-    <Text>Jay get to work bruh</Text>
+    <Text>Jay</Text>
     </View>
   )
 }
