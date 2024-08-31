@@ -22,7 +22,6 @@ export default function Layout() {
 
   return (
     <TamaguiProvider config={config}>
-
       <GestureHandlerRootView style={{flex: 1}}>
       <Slot/>
       </GestureHandlerRootView>

@@ -4,10 +4,10 @@ import React from 'react'
 const Page = () => {
   return (
     <View>
-      <Text>Favorites</Text>
+    <Text>Favorites</Text>
     <Text>Jay get to work bruh</Text>
     </View>
   )
 }
 
-export default Page
+export default Page;
