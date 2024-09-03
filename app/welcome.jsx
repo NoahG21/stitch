@@ -22,7 +22,7 @@ const Welcome = () => {
               Already have an account!
             </Text>
             <Pressable onPress = {() => router.push('login')}>
-              <Text style={[styles.loginText, {color: theme.colors.accent, fontWeight: theme.fonts.extrabold}]}>
+              <Text style={[styles.loginText, {color: theme.colors.primaryDark, fontWeight: theme.fonts.extrabold}]}>
                 Login
               </Text>
             </Pressable>
